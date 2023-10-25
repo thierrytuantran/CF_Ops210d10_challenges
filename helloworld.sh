@@ -3,7 +3,7 @@
 # Script Name:                  Hello World
 # Author:                       Thierry Tran
 # Date of latest revision:      10/24/2023
-# Purpose:                      Ops210d10-challenges 02
+# Purpose:                      Ops210d10-challenges_02
 
 # Declaration of variables
 entryText = "Hello World"
