@@ -6,8 +6,8 @@
 # Purpose:                      Ops210d10-challenges_02
 
 # Declaration of variables
-entryText = "Hello World"
-entryText2= "I'm working perfectly."
+entryText="Hello World"
+entryText2="I'm working perfectly."
 
 # Declaration of functions
 
