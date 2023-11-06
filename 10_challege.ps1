@@ -21,4 +21,4 @@ Stop-Process -Name "notepad" -Force
 
 # Kill a process by its Process Identification Number (PID)
 # Replace <PID_TO_KILL> with the actual PID of the process to be killed
-Stop-Process -Id <12346> -Force
+Stop-Process -Id 12346 -Force
